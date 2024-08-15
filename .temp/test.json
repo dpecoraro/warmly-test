@@ -1,0 +1,403 @@
+{
+    "data": [
+        {
+            "id": null,
+            "careRecipientId": 2987,
+            "contactId": 0,
+            "helpers": [
+                {
+                    "id": 103,
+                    "firstName": "Demds ",
+                    "lastName": "Pecoraro",
+                    "email": "Demetrius.pecoraro@sonatafy.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:18:14.0922549",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                }
+            ],
+            "helper": null,
+            "event": {
+                "id": 367,
+                "categoryId": 0,
+                "categoryName": null,
+                "description": null,
+                "startingTime": "2024-08-12T03:00:00",
+                "time": "17:58:14.4242350",
+                "beforeOrAfter": null,
+                "notes": null,
+                "requestGroupId": "63fd7f15cc2f4ccfa9da516dac91b869",
+                "hasAccepted": false,
+                "eventStatus": 0,
+                "eventAnswers": [
+                    {
+                        "contactId": 103,
+                        "response": "Pending"
+                    }
+                ],
+                "acceptedBy": null,
+                "insertedAt": "2024-08-12T20:59:25.4116949",
+                "insertedBy": 2684,
+                "updatedBy": 2684,
+                "updatedAt": "2024-08-12T22:01:42.8941443",
+                "isDeleted": false,
+                "taskDate": "0001-01-01T00:00:00",
+                "taskHour": "00:00:00",
+                "requestId": 0,
+                "isAccepted": false
+            },
+            "beforeOrAfter": "Before",
+            "task": {
+                "id": 16,
+                "name": "Managing bills and household expenditures"
+            },
+            "insertedBy": 2684,
+            "userName": "2684",
+            "userId": 0,
+            "insertedAt": null,
+            "updatedBy": null,
+            "updatedAt": null,
+            "isDeleted": false
+        },
+        {
+            "id": null,
+            "careRecipientId": 2987,
+            "contactId": 0,
+            "helpers": [
+                {
+                    "id": 103,
+                    "firstName": "Demds ",
+                    "lastName": "Pecoraro",
+                    "email": "Demetrius.pecoraro@sonatafy.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:18:14.0922549",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 104,
+                    "firstName": "Magu",
+                    "lastName": "TestB",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:21:56.6247955",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 110,
+                    "firstName": "Larry",
+                    "lastName": "Wolff",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "6232291286",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": false,
+                    "isTextPreferedContactOption": true,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-10T03:44:54.536931",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                }
+            ],
+            "helper": null,
+            "event": {
+                "id": 369,
+                "categoryId": 0,
+                "categoryName": null,
+                "description": null,
+                "startingTime": "2024-08-15T00:00:00",
+                "time": "22:12:41.2682240",
+                "beforeOrAfter": null,
+                "notes": "Adding 2 emails 1 phone\nRemove Larry add B - add larry now - add everyone else",
+                "requestGroupId": "0a13ed36b85c44a0aa8cc02494ea5fea",
+                "hasAccepted": false,
+                "eventStatus": 0,
+                "eventAnswers": [
+                    {
+                        "contactId": 103,
+                        "response": "Pending"
+                    },
+                    {
+                        "contactId": 104,
+                        "response": "Pending"
+                    },
+                    {
+                        "contactId": 110,
+                        "response": "Pending"
+                    }
+                ],
+                "acceptedBy": null,
+                "insertedAt": "2024-08-13T01:13:33.6992932",
+                "insertedBy": 2684,
+                "updatedBy": 2684,
+                "updatedAt": "2024-08-12T23:54:31.450349",
+                "isDeleted": false,
+                "taskDate": "0001-01-01T00:00:00",
+                "taskHour": "00:00:00",
+                "requestId": 0,
+                "isAccepted": false
+            },
+            "beforeOrAfter": "On",
+            "task": {
+                "id": 19,
+                "name": "Providing rides to appointments"
+            },
+            "insertedBy": 2684,
+            "userName": "2684",
+            "userId": 0,
+            "insertedAt": null,
+            "updatedBy": null,
+            "updatedAt": null,
+            "isDeleted": false
+        },
+        {
+            "id": null,
+            "careRecipientId": 2987,
+            "contactId": 0,
+            "helpers": [
+                {
+                    "id": 103,
+                    "firstName": "Demds ",
+                    "lastName": "Pecoraro",
+                    "email": "Demetrius.pecoraro@sonatafy.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:18:14.0922549",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 104,
+                    "firstName": "Magu",
+                    "lastName": "TestB",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:21:56.6247955",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 105,
+                    "firstName": "Miguel",
+                    "lastName": "TesteC",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:22:22.9823449",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                }
+            ],
+            "helper": null,
+            "event": {
+                "id": 374,
+                "categoryId": 0,
+                "categoryName": null,
+                "description": null,
+                "startingTime": "2024-08-13T03:00:00",
+                "time": "12:36:23.3403010",
+                "beforeOrAfter": null,
+                "notes": null,
+                "requestGroupId": "b478373ec5ea44c8a07f098769936089",
+                "hasAccepted": false,
+                "eventStatus": 0,
+                "eventAnswers": [
+                    {
+                        "contactId": 103,
+                        "response": "Pending"
+                    },
+                    {
+                        "contactId": 104,
+                        "response": "Pending"
+                    },
+                    {
+                        "contactId": 105,
+                        "response": "Pending"
+                    }
+                ],
+                "acceptedBy": null,
+                "insertedAt": "2024-08-13T15:36:52.8464528",
+                "insertedBy": 2684,
+                "updatedBy": 2684,
+                "updatedAt": "2024-08-13T13:51:01.5614336",
+                "isDeleted": false,
+                "taskDate": "0001-01-01T00:00:00",
+                "taskHour": "00:00:00",
+                "requestId": 0,
+                "isAccepted": false
+            },
+            "beforeOrAfter": "Before",
+            "task": {
+                "id": 8,
+                "name": "Accompanying to appointments"
+            },
+            "insertedBy": 2684,
+            "userName": "2684",
+            "userId": 0,
+            "insertedAt": null,
+            "updatedBy": null,
+            "updatedAt": null,
+            "isDeleted": false
+        },
+        {
+            "id": null,
+            "careRecipientId": 2987,
+            "contactId": 0,
+            "helpers": [
+                {
+                    "id": 103,
+                    "firstName": "Demds ",
+                    "lastName": "Pecoraro",
+                    "email": "Demetrius.pecoraro@sonatafy.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:18:14.0922549",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 105,
+                    "firstName": "Miguel",
+                    "lastName": "TesteC",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:22:22.9823449",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                },
+                {
+                    "id": 104,
+                    "firstName": "Magu",
+                    "lastName": "TestB",
+                    "email": "Dpecoraro@hotmail.com",
+                    "mobileNumberCountryCode": null,
+                    "phoneNumber": "",
+                    "isToBeRemovedFromTask": false,
+                    "isEmailPreferedContactOption": true,
+                    "isTextPreferedContactOption": false,
+                    "insertedBy": 2684,
+                    "insertedDate": "2024-08-09T16:21:56.6247955",
+                    "updatedBy": null,
+                    "updatedDate": null,
+                    "deletedBy": null,
+                    "isDeleted": false
+                }
+            ],
+            "helper": null,
+            "event": {
+                "id": 377,
+                "categoryId": 0,
+                "categoryName": null,
+                "description": null,
+                "startingTime": "2024-08-28T00:00:00",
+                "time": "15:35:43.2664200",
+                "beforeOrAfter": null,
+                "notes": null,
+                "requestGroupId": "1f25d60972b4416392add82fe1284257",
+                "hasAccepted": false,
+                "eventStatus": 0,
+                "eventAnswers": [
+                    {
+                        "contactId": 103,
+                        "response": "Pending"
+                    },
+                    {
+                        "contactId": 105,
+                        "response": null
+                    },
+                    {
+                        "contactId": 104,
+                        "response": "Pending"
+                    }
+                ],
+                "acceptedBy": null,
+                "insertedAt": "2024-08-13T18:36:06.4191394",
+                "insertedBy": 2684,
+                "updatedBy": 2684,
+                "updatedAt": "2024-08-13T15:36:55.5061746",
+                "isDeleted": false,
+                "taskDate": "0001-01-01T00:00:00",
+                "taskHour": "00:00:00",
+                "requestId": 0,
+                "isAccepted": false
+            },
+            "beforeOrAfter": "Before",
+            "task": {
+                "id": 8,
+                "name": "Accompanying to appointments"
+            },
+            "insertedBy": 2684,
+            "userName": "2684",
+            "userId": 0,
+            "insertedAt": null,
+            "updatedBy": null,
+            "updatedAt": null,
+            "isDeleted": false
+        }
+    ],
+    "isSuccess": true,
+    "isSaved": false,
+    "isWarning": false,
+    "messages": [],
+    "message": "Requests retrieved successfully",
+    "originalException": null,
+    "isAuthorized": true,
+    "statusCode": 200,
+    "id": null
+}
